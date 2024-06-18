@@ -1,0 +1,6 @@
+__pycache__/
+checkpoints/
+logs/
+wandb/
+Data/
+human_feedback/metaworld_button-press-topdown-v2/dataset.pkl
